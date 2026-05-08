@@ -1,0 +1,8 @@
+streamlit
+requests
+graphviz
+reportlab
+toml
+huggingface_hub
+plotly
+altair
